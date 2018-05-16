@@ -7,8 +7,8 @@ module.exports = {
     [
       'env',
       {
-        loose,
-        modules
+        loose
+        // modules
       }
     ],
     'react'
